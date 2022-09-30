@@ -1,3 +1,3 @@
 # Java
 ## funfact
-java is developed accedintally
+java was developed accidentally
